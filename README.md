@@ -33,5 +33,5 @@ Human-Computer Interaction: By recognizing hand landmarks, the project facilitat
 
 Hand landmark detection in the project plays a crucial role in enabling various functionalities that enhance user interactions, facilitate gesture-based controls, and provide new and innovative ways for users to interact with technology. This technology has a wide range of applications in diverse fields, from gaming and virtual reality to accessibility and human-computer interaction.
 
-## [Hand Landmark Detection]()
+## [Hand Landmark Detection](https://github.com/thisarakaushan/Hand-Gesture-Detection/blob/main/Hand%20Landmarks%20Detection.ipynb)
 In the project, the code continuously captures frames from the webcam, detects and tracks a hand in the frame, calculates the distance between specific landmarks on the hand, and performs a keyboard action (simulating the "up" arrow key press) based on the calculated distance. This code serves as a basic example of real-time hand gesture recognition and can be further extended to create more complex interactions with the computer.
