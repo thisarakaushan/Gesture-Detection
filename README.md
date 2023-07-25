@@ -8,8 +8,8 @@ To run the project, you need the following software installed on your system:
 
 Python 3.x
 * OpenCV
-* cvzone library<br>
-You can install the required libraries using the following command:
+* cvzone library
+<br>You can install the required libraries using the following command:
 
 Copy code
 ```
